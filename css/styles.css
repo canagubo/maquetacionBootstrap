@@ -16,12 +16,12 @@ h1 {
 }
 
 .barra {
-    background-color: #92ce06;
+    background-color: #17ce06;
 }
 
 .cajaBorde {
     border-style: solid;
-    border-color: #92ce06;
+    border-color: #17ce06;
     height: 30vh;
     padding: 0;
 }
